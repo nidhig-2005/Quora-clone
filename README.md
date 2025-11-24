@@ -43,7 +43,7 @@ No database used (no MongoDB / SQL).
 1️⃣ Install dependencies:
 npm install
 2️⃣ Start the server:
-npm start
+nodemon (file name eg:index.js)
 3️⃣ Open in browser:
 http://localhost:8080/posts
 
