@@ -23,6 +23,9 @@ EJS,
 CSS,
 No database used (no MongoDB / SQL).
 
+Unique IDs:
+This project uses the 'uuid' package to generate random unique IDs for posts.
+
 🔌 RESTful Routes:
 📥 GET:
 /posts — Show all posts.
